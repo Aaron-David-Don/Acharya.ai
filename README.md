@@ -2,7 +2,7 @@
 
 ## This repository contains codes that can be used to create a database, embeddings, rag, drop files and host it using Streamlit
 
-## Before running the code, first create and venv with 
+## Before running the code, first create venv with 
     python -m venv venv
     .\venv\Scripts\activate
     
