@@ -3,14 +3,14 @@
 ## This repository contains codes that can be used to create a database, embeddings, rag, drop files and host it using Streamlit
 
 ## Before running the code, first create and venv with 
-    '''python -m venv venv'''
-    '''.\venv\Scripts\activate'''
-    '''
+    python -m venv venv
+    .\venv\Scripts\activate
+    
 ## Then install all the requirements using this code also install streamlit
-    '''pip install -r requirements.txt '''
+    pip install -r requirements.txt 
 
 ## Now right click on any of the file and "Open in Integrated Terminal" and run this
-    '''streamlit run RAG2.py'''
+    streamlit run RAG2.py
 
 1. **.env**
    - This code contains the api key for all the required modules
