@@ -46,3 +46,9 @@
 
 8. **ChatBotV2.py**
    - This is a simple code using OpenAi and Streamlit that takes the user input and provides to GPT to provide solution in Sanskrit
+  
+9. **Base_LLM_Translator.py**
+    - This code provides a basic chatbot using Llama and translating its output to Sanskrit using a translator module
+
+10. **base_audio.py**
+    - This code provides good quality audio with the help of ElevenLabs
