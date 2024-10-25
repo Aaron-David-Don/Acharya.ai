@@ -23,6 +23,7 @@
      a. **Basic_Chatbot.py**
         - This code is used for the basic chatbot where Llama 8b instruct api key through replicate is used to get the user input and feed to the GPT to get the output and the a translator module is
           used to the translate the generated text to Sanskrit. This is hosted as a website using streamlit<br/>
+     <br/>     
      b. **DROP.py**
         - This code enables the user the upload their document and 3 task can be performed by the code, the 3 functions are:
           1) First part of the code read the document content and replies anything based of the document. For eg: Upload a Sanskrit document and ask question about it.
