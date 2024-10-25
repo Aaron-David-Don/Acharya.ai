@@ -1,7 +1,7 @@
 import requests
 
 CHUNK_SIZE = 1024
-url = "https://api.elevenlabs.io/v1/text-to-speech/sY2peC9GbHX8NCy5enOe"
+url = "https://api.elevenlabs.io/v1/text-to-speech/ur required api"
 
 headers = {
   "Accept": "audio/mpeg",
