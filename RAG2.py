@@ -36,7 +36,7 @@ st.write("Ask any question, and I will respond in Sanskrit based on a context se
 # Function to generate audio from text
 def generate_audio(text, filename="output.mp3"):
     CHUNK_SIZE = 1024
-    url = "https://api.elevenlabs.io/v1/text-to-speech/sY2peC9GbHX8NCy5enOe" 
+    url = "https://api.elevenlabs.io/v1/text-to-speech/enter ur required api" 
     headers = {
         "Accept": "audio/mpeg",
         "Content-Type": "application/json",
