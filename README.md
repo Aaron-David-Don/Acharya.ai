@@ -7,7 +7,11 @@
     .\venv\Scripts\activate
     
 ## Then install all the requirements using this code also install streamlit
-    pip install -r requirements.txt 
+    pip install -r requirements.txt
+    pip install "unstructured[md]"
+    pip install --upgrade nltk unstructured
+    pip install python-magic-bin
+    
 
 ## Now right click on any of the file and "Open in Integrated Terminal" and run this
     streamlit run RAG2.py
