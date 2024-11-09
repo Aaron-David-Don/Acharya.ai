@@ -56,3 +56,6 @@
 
 10. **base_audio.py**
     - This code provides good quality audio with the help of ElevenLabs
+
+11. **LlmSanskrit.py**
+    - With help of ollama replicate and translate building a sanksrit chatbot
