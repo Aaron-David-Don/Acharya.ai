@@ -59,3 +59,6 @@
 
 11. **LlmSanskrit.py**
     - With help of ollama replicate and translate building a sanksrit chatbot
+
+12. **text2audio.py**
+    - This code converts text to audio
