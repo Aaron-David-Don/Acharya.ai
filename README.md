@@ -2,7 +2,7 @@
 
 ## This repository contains codes that can be used to create a database, embeddings, rag, drop files and host it using Streamlit
 
-##For Windows users, follow the guide here to install the Microsoft C++ Build Tools. Be sure to follow through to the last step to set the enviroment variable path.
+## For Windows users, follow the guide here to install the Microsoft C++ Build Tools. Be sure to follow through to the last step to set the enviroment variable path. /n
 https://github.com/bycloudai/InstallVSBuildToolsWindows?tab=readme-ov-file
 
 ## Before running the code, first create venv with 
